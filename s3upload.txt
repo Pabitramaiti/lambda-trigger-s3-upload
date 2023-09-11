@@ -1,0 +1,1 @@
+Successfully triggered lambda function while uploading file to S3 bucket.
